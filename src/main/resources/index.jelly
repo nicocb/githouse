@@ -1,0 +1,7 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+    This plugin provides parameter bundles.
+    Multiple parameters are determined according to the value of a single one.
+</div>
